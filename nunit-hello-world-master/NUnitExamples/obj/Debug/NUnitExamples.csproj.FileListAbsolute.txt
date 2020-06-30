@@ -1,0 +1,6 @@
+D:\Work\OpenSource\NUnit\SourceCode\nunit-hello-world-master\nunit-hello-world-master\NUnitExamples\bin\Debug\Calculator.dll
+D:\Work\OpenSource\NUnit\SourceCode\nunit-hello-world-master\nunit-hello-world-master\NUnitExamples\bin\Debug\Calculator.pdb
+D:\Work\OpenSource\NUnit\SourceCode\nunit-hello-world-master\nunit-hello-world-master\NUnitExamples\obj\Debug\NUnitExamples.csprojAssemblyReference.cache
+D:\Work\OpenSource\NUnit\SourceCode\nunit-hello-world-master\nunit-hello-world-master\NUnitExamples\obj\Debug\NUnitExamples.csproj.CoreCompileInputs.cache
+D:\Work\OpenSource\NUnit\SourceCode\nunit-hello-world-master\nunit-hello-world-master\NUnitExamples\obj\Debug\Calculator.dll
+D:\Work\OpenSource\NUnit\SourceCode\nunit-hello-world-master\nunit-hello-world-master\NUnitExamples\obj\Debug\Calculator.pdb
